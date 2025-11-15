@@ -12,7 +12,7 @@ img{
   text-align: center;
 }
 body{
-  background-color: pink;
+  background-color:#d8bfd8;
 }
 p{
   color:white;
@@ -21,7 +21,7 @@ p{
 
 .Sakura{
   background-color:white;
-  color:pink;
+  color:#d8bfd8;
   border: 2px;
   text-decoration: none;
   padding: 5px;
@@ -30,7 +30,7 @@ p{
 }
 .Sai{
   background-color:white;
-  color:pink;
+  color:#d8bfd8;
   border: 2px;
   text-decoration: none;
   padding: 10px;
