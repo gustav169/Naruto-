@@ -1,0 +1,39 @@
+div{
+  width:500px;
+  margin: 0 auto;
+  text-align: center;
+  border: 2px solid black;
+  padding-bottom: 20px;
+  
+}
+img{
+  margin-top:20px;
+  width: 200px;
+  text-align: center;
+}
+body{
+  background-color: #00008b;
+}
+p{
+  color:#B39EB5;
+  padding-bottom:100px;
+}
+
+.sasuke{
+  background-color:#B39EB5;
+  color:#00008b;
+  border: 2px;
+  text-decoration: none;
+  padding: 5px;
+  border-radius:3px;
+  
+}
+.kakashi{  
+  background-color:#B39EB5;
+  color:#00008b;
+  border: 2px;
+  text-decoration: none;
+  padding: 10px;
+  border-radius:20px;
+  
+}

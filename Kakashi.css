@@ -1,0 +1,38 @@
+div{
+  width:500px;
+  margin: 0 auto;
+  text-align: center;
+  border: 2px solid black;
+  padding-bottom: 20px;
+  
+}
+img{
+  margin-top:20px;
+  width: 200px;
+  text-align: center;
+}
+body{
+  background-color: #00674f;
+}
+p{
+  color:white;
+  padding-bottom:100px;
+}
+
+.kakashi{
+  background-color:white;
+  color:#00674f;
+  border: 2px;
+  text-decoration: none;
+  padding: 5px;
+  border-radius:3px;
+  
+}
+.Sakura{
+  background-color:white;
+  color:#00674f;
+  border: 2px;
+  text-decoration: none;
+  padding: 10px;
+  border-radius:20px;
+}
